@@ -172,8 +172,7 @@ function Contact() {
       <div className="contact-socials">
         <a href="mailto:dandapanthulamanideep@gmail.com" title="Email"><FaEnvelope /></a>
         <a href="https://github.com/ManideepDandapanthula" target="_blank" rel="noopener noreferrer" title="GitHub"><FaGithub /></a>
-        {/* Use a valid placeholder for LinkedIn or remove if not needed */}
-        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><FaLinkedin /></a>
+        <a href="https://www.linkedin.com/in/manideep-dandapanthula-b35761355/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><FaLinkedin /></a>
       </div>
     </section>
   );
